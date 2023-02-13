@@ -1,7 +1,6 @@
 package racingcar;
 
 import racingcar.controller.RacingCarController;
-import racingcar.domain.game.MathRandom;
 import racingcar.domain.game.NumberGenerator;
 import racingcar.domain.game.RandomNumberGenerator;
 
